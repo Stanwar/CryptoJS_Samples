@@ -1,0 +1,19 @@
+{
+  "name": "cryptojs_samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stanwar/CryptoJS_Samples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stanwar/CryptoJS_Samples/issues"
+  },
+  "homepage": "https://github.com/Stanwar/CryptoJS_Samples#readme"
+}
